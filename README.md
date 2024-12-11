@@ -36,7 +36,7 @@ To use the Enhanced Network Analysis Tool, follow these steps:
 
 1. **Clone the Repository**: Clone the repository to your local machine:
    ```
-   git clone https://github.com/kemalcalak/Realtime-Network-Monitor.git
+   git clone https://github.com/k4ran909/Realtime-Network-Monitor.git
    ```
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies using pip:
    ```
