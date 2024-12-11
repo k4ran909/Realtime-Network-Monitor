@@ -26,7 +26,9 @@ To install the required dependencies, run the following commands:
 ```
 pip install scapy
 pip install tkinter
+pip install tkintertable
 pip install sqlite3
+pip install db-sqlite3
 pip install matplotlib
 ```
 
